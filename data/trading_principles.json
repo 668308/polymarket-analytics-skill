@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p001",
+    "name": "高胜率钱包跟随",
+    "condition": "wallet.win_rate > 60 AND wallet.pnl > 5000",
+    "action": "跟随该钱包的买入信号，仓位5%，止盈30%止损15%",
+    "confidence": 70.0,
+    "success_count": 0,
+    "fail_count": 0,
+    "accuracy": 0.0,
+    "created_at": "2026-03-04T16:00:00",
+    "last_updated": "2026-03-04T16:00:00"
+  },
+  {
+    "id": "p002",
+    "name": "趋势突破交易",
+    "condition": "price.change_24h > 10 AND volume.increase > 50%",
+    "action": "顺势买入，止损-15%",
+    "confidence": 60.0,
+    "success_count": 0,
+    "fail_count": 0,
+    "accuracy": 0.0,
+    "created_at": "2026-03-04T16:00:00",
+    "last_updated": "2026-03-04T16:00:00"
+  },
+  {
+    "id": "p003",
+    "name": "流动性筛选",
+    "condition": "market.liquidity < 20000",
+    "action": "避免参与，流动性不足",
+    "confidence": 85.0,
+    "success_count": 0,
+    "fail_count": 0,
+    "accuracy": 0.0,
+    "created_at": "2026-03-04T16:00:00",
+    "last_updated": "2026-03-04T16:00:00"
+  }
+]
