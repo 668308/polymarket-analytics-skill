@@ -1,0 +1,452 @@
+[
+  {
+    "rank": 1,
+    "address": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
+    "pnl": 394791.51,
+    "volume": 2091098.34,
+    "username": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 2,
+    "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "pnl": 196649.34,
+    "volume": 577186.84,
+    "username": "kch123",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 3,
+    "address": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
+    "pnl": 159354.36,
+    "volume": 130362.27,
+    "username": "weflyhigh",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 4,
+    "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "pnl": 146252.87,
+    "volume": 11876.28,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 5,
+    "address": "0x07b8e44b90cc3e91b8d5fe60ea810d2534638e25",
+    "pnl": 114534.07,
+    "volume": 435862.5,
+    "username": "joosangyoo",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 6,
+    "address": "0x8f037a2e4fd49d11267f4ab874ab7ba745ac64d6",
+    "pnl": 111552.59,
+    "volume": 271863.46,
+    "username": "Anointed-Connect",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 7,
+    "address": "0x8a6c6811e8937f9e8afc1b9249fa540262c30b3f",
+    "pnl": 94048.14,
+    "volume": 458687.85,
+    "username": "0x8a6C6811e8937F9E8aFc1b9249FA540262c30b3f-1771776258725",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 8,
+    "address": "0xada56a3f1a9d7d3fe7ec8cbcaa0865109c57db70",
+    "pnl": 91747.75,
+    "volume": 414476.96,
+    "username": "GetaLife",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 9,
+    "address": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+    "pnl": 91300.89,
+    "volume": 893549.19,
+    "username": "elkmonkey",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 10,
+    "address": "0xe20a1538293903b746ffe6c4ce2d5c3c0300e469",
+    "pnl": 90332.28,
+    "volume": 400987.47,
+    "username": "gopatriots",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 11,
+    "address": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+    "pnl": 83971.13,
+    "volume": 0.0,
+    "username": "Herdonia",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 12,
+    "address": "0xdb2223cc5202a4718c3069f577ec971f71c96478",
+    "pnl": 56313.09,
+    "volume": 33384.22,
+    "username": "FTWUTB",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 13,
+    "address": "0x7af9bac9328c7cec1f9d07786e59576b608db408",
+    "pnl": 55583.37,
+    "volume": 30952.3,
+    "username": "0x7AF9Bac9328c7ceC1F9D07786E59576b608Db408-1771787783556",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 14,
+    "address": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+    "pnl": 45442.86,
+    "volume": 848257.61,
+    "username": "sovereign2013",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 15,
+    "address": "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49",
+    "pnl": 42458.11,
+    "volume": 163102.7,
+    "username": "EIf",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 16,
+    "address": "0x9d84ce0306f8551e02efef1680475fc0f1dc1344",
+    "pnl": 42141.78,
+    "volume": 229379.24,
+    "username": "ImJustKen",
+    "verified": true,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 17,
+    "address": "0x4435a170c507aa2c7e7e32859b4adcac64c20840",
+    "pnl": 40575.43,
+    "volume": 0.0,
+    "username": "qqzhi4527",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 18,
+    "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "pnl": 40446.33,
+    "volume": 607916.5,
+    "username": "0p0jogggg",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 19,
+    "address": "0xe2cf7f3715640bdda625974ab3d3c83495edd1e7",
+    "pnl": 37421.32,
+    "volume": 134207.38,
+    "username": "3111111111111333333333313",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 20,
+    "address": "0xbb04b21ed2cefd4d9d0320f6585ff575367d648c",
+    "pnl": 34567.18,
+    "volume": 0.0,
+    "username": "fourfive",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 21,
+    "address": "0x033f0346c007323030eb420305ffede19a95618e",
+    "pnl": 34563.15,
+    "volume": 81455.35,
+    "username": "TheVeryGoodCow",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 22,
+    "address": "0x67bb64fac5252df3f61ee2d91a4b1350e40eb6ef",
+    "pnl": 33925.47,
+    "volume": 1900.23,
+    "username": "Blueberry1337",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 23,
+    "address": "0x72b40c0012682ef52228ad53ef955f9e4f177d67",
+    "pnl": 33807.88,
+    "volume": 66204.29,
+    "username": "nz7",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 24,
+    "address": "0xf19d7d88cf362110027dcd64750fdd209a04276f",
+    "pnl": 33665.36,
+    "volume": 188712.32,
+    "username": "huhaoli",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 25,
+    "address": "0xafbacaeeda63f31202759eff7f8126e49adfe61b",
+    "pnl": 33402.39,
+    "volume": 263450.28,
+    "username": "SammySledge",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 26,
+    "address": "0x96489abcb9f583d6835c8ef95ffc923d05a86825",
+    "pnl": 30532.5,
+    "volume": 326298.51,
+    "username": "anoin123",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 27,
+    "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "pnl": 28448.03,
+    "volume": 48801.82,
+    "username": "ethanaz",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 28,
+    "address": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "pnl": 27000.53,
+    "volume": 199061.33,
+    "username": "Feromont",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 29,
+    "address": "0xb45a797faa52b0fd8adc56d30382022b7b12192c",
+    "pnl": 24102.07,
+    "volume": 415830.58,
+    "username": "bcda",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 30,
+    "address": "0x6e82b93eb57b01a63027bd0c6d2f3f04934a752c",
+    "pnl": 23217.86,
+    "volume": 0.0,
+    "username": "0x24357454d8d1a0cc93a6c25fd490467372bc2454",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 31,
+    "address": "0xb6ee66318b42ea6a058d217fe500effd6df10bd0",
+    "pnl": 23083.7,
+    "volume": 52147.33,
+    "username": "11owen",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 32,
+    "address": "0x842ac934cfff1467f27c167c42c318001e407422",
+    "pnl": 23081.32,
+    "volume": 83565.4,
+    "username": "ChompChomp888",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 33,
+    "address": "0xfce17e0395c790ad16f5a0b7fea062120f8e9ce7",
+    "pnl": 22624.99,
+    "volume": 43108.87,
+    "username": "K9O",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 34,
+    "address": "0xecfce3118f6f085a96c7d1a8bee42af34cb9cd05",
+    "pnl": 22508.1,
+    "volume": 102923.0,
+    "username": "lionss",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 35,
+    "address": "0xcbea32005dcba234e23882aac4e6fd3c0baaa2c0",
+    "pnl": 21379.36,
+    "volume": 226594.5,
+    "username": "3dhe89enk",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 36,
+    "address": "0xdcafb6a5e96ae895a569e4b862a58bea1d21e271",
+    "pnl": 21004.81,
+    "volume": 63845.24,
+    "username": "0xDcafB6a5E96ae895a569e4B862A58BEa1D21e271-1769691817051",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 37,
+    "address": "0xaa075924e1dc7cff3b9fab67401126338c4d2125",
+    "pnl": 19721.0,
+    "volume": 9760.82,
+    "username": "rustin",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 38,
+    "address": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
+    "pnl": 19174.75,
+    "volume": 71999.75,
+    "username": "TheOnlyHuman",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 39,
+    "address": "0xb55216ed55337cf9443139e4e5cace56426694a8",
+    "pnl": 19162.13,
+    "volume": 138229.96,
+    "username": "KirksCousin",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 40,
+    "address": "0xd7a58948a0aba3015f057ab4ecc5bef039e47c26",
+    "pnl": 18694.64,
+    "volume": 185686.2,
+    "username": "Sensei2",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 41,
+    "address": "0xf1649daae29c44bdb406a4dbb7f1748eac398fa4",
+    "pnl": 18079.7,
+    "volume": 7992.57,
+    "username": "Jargs",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 42,
+    "address": "0xf588b19afe63e1aba00f125f91e3e3b0fdc62b81",
+    "pnl": 16838.39,
+    "volume": 478342.47,
+    "username": "RandomPunter",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 43,
+    "address": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "pnl": 16018.53,
+    "volume": 43923.97,
+    "username": "KingOfRats",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 44,
+    "address": "0x2707f2e693b3d20b5a17b603c532571108140afa",
+    "pnl": 15941.1,
+    "volume": 154704.22,
+    "username": "Predictandbreathe",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 45,
+    "address": "0xe701b372276d03e52a4020622d6c978d4e91dcc2",
+    "pnl": 15730.5,
+    "volume": 76148.02,
+    "username": "0xE701B372276D03e52a4020622D6C978D4e91DcC2-1772591136009",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 46,
+    "address": "0x68146921df11eab44296dc4e58025ca84741a9e7",
+    "pnl": 15726.0,
+    "volume": 1089163.83,
+    "username": "LynxTitan",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 47,
+    "address": "0x7d92fd69504bfd391162e1442cb784c0af408676",
+    "pnl": 15301.91,
+    "volume": 47300.92,
+    "username": "mikesports",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 48,
+    "address": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "pnl": 15183.18,
+    "volume": 333734.65,
+    "username": "Sharky6999",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 49,
+    "address": "0x9e16523fd812d1d3d6fa7a2bc6763a07ed5b0127",
+    "pnl": 14987.28,
+    "volume": 0.0,
+    "username": "cd20",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  },
+  {
+    "rank": 50,
+    "address": "0x32ed517a571c01b6e9adecf61ba81ca48ff2f960",
+    "pnl": 14946.85,
+    "volume": 428871.89,
+    "username": "sportmaster777",
+    "verified": false,
+    "source": "polymarket_leaderboard"
+  }
+]
